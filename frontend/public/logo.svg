@@ -1,0 +1,22 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 200 200"
+  width="200"
+  height="200"
+>
+  <!-- Outer Circle -->
+  <circle cx="100" cy="100" r="95" fill="#2A9D8F" />
+
+  <!-- Rupee Symbol -->
+  <text
+    x="100"
+    y="170"
+    font-size="200"
+    font-weight="bold"
+    font-family="Arial, sans-serif"
+    fill="#FFFFFF"
+    text-anchor="middle"
+  >
+    ₹
+  </text>
+</svg>
