@@ -7,7 +7,6 @@
 ## 🌟 Features:
 - **Expense Tracking**: Easily log and track your daily expenses.
 - **Categories**: Categorize expenses to gain insights into spending patterns.
-- **User Authentication**: Secure login and registration using JWT-based authentication.
 - **Expense Reports**: Generate reports to visualize your spending.
 - **Responsive Design**: Fully responsive UI to provide a seamless experience across all devices.
 
@@ -16,11 +15,10 @@
 ## 💻 Technologies Used:
 - **Frontend**: 
   - **React.js** for building the user interface.
-  - **CSS** (or any other styling method) for styling the components.
+  - **CSS** for styling the components.
 - **Backend**: 
   - **Node.js** and **Express.js** for handling API requests and server-side logic.
   - **MongoDB** for storing user data and expense records.
-  - **JWT** for user authentication and session management.
 
 ---
 
